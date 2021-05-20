@@ -1,4 +1,4 @@
--# Vuex shopping cart backend
+# Vuex shopping cart backend
 ## Create project
 ```
 mkdir vuex-shopping-cart-backend
