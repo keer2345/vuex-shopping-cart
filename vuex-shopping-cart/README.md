@@ -1,6 +1,13 @@
 # vuex-shopping-cart
 
+
+
 ## Create project
+```
+> sudo npm install -g create-vite-app
+> vue --version
+@vue/cli 4.5.13
+```
 
 ```
 vue create vuex-shopping-cart
